@@ -6,5 +6,5 @@
 ###
 # 
 Master's Degree Front End Computer Programmer
-## عنوان متوسط
+## WordPress expert
 ### عنوان کوچک
