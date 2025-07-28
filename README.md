@@ -7,4 +7,4 @@
 # Master's Degree Front End Computer Programmer
 ## WordPress expert
 ### Working with artificial intelligence tools
-[اینستاگرام من](https://instagram.com/yourname)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milad-dev&show_icons=true&theme=radical)
